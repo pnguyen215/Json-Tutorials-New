@@ -1,0 +1,1 @@
+In JSON.simple, we can merge two JSON Arrays easily using JSONArray.addAll() method

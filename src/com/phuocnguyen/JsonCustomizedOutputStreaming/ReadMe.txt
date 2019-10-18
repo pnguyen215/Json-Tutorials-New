@@ -1,0 +1,1 @@
+We can customize JSON streaming output based on custom class. Only requirement is to implement JSONStreamAware interface.

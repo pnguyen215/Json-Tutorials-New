@@ -1,0 +1,1 @@
+JSONParser.parse() throws ParseException in case of invalid JSON. 

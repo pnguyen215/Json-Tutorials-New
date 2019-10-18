@@ -1,0 +1,1 @@
+ContainerFactory can be used to create Custom container for parsed JSON objects/arrays. First we need to create a ContainerFactory object and then use it in parse Method of JSONParser to get the required object.

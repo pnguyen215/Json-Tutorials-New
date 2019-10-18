@@ -1,0 +1,15 @@
+Backspace to be replaced with \b
+
+Form feed to be replaced with \f
+
+Newline to be replaced with \n
+
+Carriage return to be replaced with \r
+
+Tab to be replaced with \t
+
+Double quote to be replaced with \"
+
+Backslash to be replaced with \\
+
+JSONObject.escape() method can be used to escape such reserved keywords in a JSON String.

@@ -1,0 +1,1 @@
+ContentHandler interface is used to provide a SAX like interface to stream the large json. It provides stoppable capability as well

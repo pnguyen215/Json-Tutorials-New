@@ -1,0 +1,1 @@
+Using JSONArray object, we can create a JSON which comprises of primitives, object and array

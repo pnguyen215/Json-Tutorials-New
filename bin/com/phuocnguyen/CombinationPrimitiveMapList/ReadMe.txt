@@ -1,0 +1,1 @@
+Using JSONValue object, we can create a JSON which comprises of primitives, Map and List.
